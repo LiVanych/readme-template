@@ -80,6 +80,6 @@ Hopefully this article taught you a new trick or two about writing effective REA
 
 To make things easier for you I put together a README.md template you can use that follows the structure laid out in this article.
 
-**You can download it here:** [dbader/readme-template](dbader/readme-template)
+**You can download it here:** [dbader/readme-template](https://github.com/dbader/readme-template)
 
 Please feel free to submit issues and pull-requests against this template. Let’s fight bad READMEs together and make our open-source projects more enjoyable to use 😃.
