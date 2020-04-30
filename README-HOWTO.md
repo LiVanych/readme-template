@@ -22,8 +22,8 @@ Let’s get started! Here’s what your README should contain:
 ##1. What your project does
 Potential users of your project should be able to figure out quickly **what the purpose of the project is**. Make sure to get this information across early on! A good way to do this right is by providing:
 
-a concise, single-paragraph blurb describing your project; and
-a representative screenshot (or even better, an animated GIF) that shows your project in action.
+* a concise, single-paragraph blurb describing your project; and
+* a representative screenshot (or even better, an animated GIF) that shows your project in action.
 
 ##2. How to install it
 If people like your project they’ll want to learn **how they can use it**. Although it may seem straightforward to you how to install your library or tool, it will trip people over and frustrate them if you don’t provide **install instructions**.
